@@ -13,3 +13,7 @@ A minimalist task manager to boost your productivity. Organize, prioritize, and 
 
 - Voice command integration
 - Calendar sync
+- Dark mode support
+- Mobile app version
+
+
